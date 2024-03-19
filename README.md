@@ -9,7 +9,7 @@ This is a repository for the article [All incompatible measurements on qubits le
 
 This repository consists of:
 
-- [BellJM_multipartite/blob/main/findJM3XZ.m](https://github.com/mtcq/BellJM_multipartite/blob/main/findJM3XZ.m):
+- [findJM3XZ.m](https://github.com/mtcq/BellJM_multipartite/blob/main/findJM3XZ.m):
 MATLAB script which shows that the critical visibility for a pair of Pauli measurements to become JM3 is between eta = 0.7937 and eta = 0.7938.
 
 - [L22_22_22](https://github.com/mtcq/BellJM_multipartite/tree/main/L22_22_22):
